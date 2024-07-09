@@ -9,6 +9,10 @@ This is a basic API for an application that provides competitor analysis.
 
 
 ## Special Build Instructions
+
+### Requirements
+- - Python 3.11 (or any python version 3.x)
+
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run migrations: `python manage.py migrate`
